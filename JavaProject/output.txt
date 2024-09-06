@@ -1,0 +1,16 @@
+Shop ID	Manager ID	Manager Name	Total Sales
+1	1	John Smith	100.0
+2	2	Jane Doe	150.0
+3	3	Robert Brown	200.0
+4	4	Emily Davis	120.0
+5	5	Michael Wilson	130.0
+6	6	Sarah Johnson	110.0
+7	7	Daniel White	140.0
+8	8	Laura Thompson	160.0
+9	9	David Garcia	170.0
+10	10	Anna Martinez	180.0
+11	11	James Miller	190.0
+12	12	Jessica Taylor	210.0
+13	13	William Anderson	220.0
+14	14	Sophia Jackson	230.0
+15	15	Henry Lee	250.0
